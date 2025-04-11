@@ -1,0 +1,11 @@
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\bin\Debug\net9.0\HeroLibrary.deps.json
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\bin\Debug\net9.0\HeroLibrary.dll
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\bin\Debug\net9.0\HeroLibrary.pdb
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.AssemblyInfoInputs.cache
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.AssemblyInfo.cs
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.csproj.CoreCompileInputs.cache
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.dll
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\refint\HeroLibrary.dll
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\HeroLibrary.pdb
+C:\CSharp\Challange\HackerManAlissonProgram1\HeroLibrary\obj\Debug\net9.0\ref\HeroLibrary.dll
